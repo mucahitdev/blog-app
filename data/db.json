@@ -1,0 +1,32 @@
+{
+    "yazilar": [
+        {
+            "baslik": "İlk yazı",
+            "id":"1",
+            "icerik": "Javascript",
+            "tarih": "12.12.2019",
+            "resim": "https://picsum.photos/200/300"
+        },
+        {
+            "baslik": "İkinci yazı",
+            "id":"2",
+            "icerik": "Yazılım",
+            "tarih": "12.12.2019",
+            "resim": "https://picsum.photos/200/300"
+        },
+        {
+            "baslik": "Üçüncü yazı",
+            "id":"3",
+            "icerik": "Python",
+            "tarih": "12.12.2019",
+            "resim": "https://picsum.photos/200/300"
+        },
+        {
+            "baslik": "Dördüncü yazı",
+            "id":"4",
+            "icerik": "C#",
+            "tarih": "12.12.2019",
+            "resim": "https://picsum.photos/200/300"
+        }
+    ]
+}
